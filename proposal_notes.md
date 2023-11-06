@@ -12,7 +12,7 @@
 - Narrow focus on Transformer kernels optimizations, like **Flash-Attention**. Writing custom CUDA kernels in either C++ or via Triton.
 - Profiling, debugging, and optimizing multi-host GPU utilization.
 
-## Minor Goals
+## Minor Goals
 
 - Accelerating **Generative AI**.
 - AI models **Software engineering** optimizations at scale.
